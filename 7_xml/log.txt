@@ -1,0 +1,6 @@
+2016-12-23 11:31:40 INFO  Test:20 - Start DOM-parsing..
+2016-12-23 11:31:40 INFO  Test:24 - Start SAX-parsing..
+2016-12-23 11:31:40 INFO  Test:28 - Start StAX-parsing..
+2016-12-23 13:36:51 INFO  Test:20 - Start DOM-parsing..
+2016-12-23 13:36:51 INFO  Test:24 - Start SAX-parsing..
+2016-12-23 13:36:51 INFO  Test:28 - Start StAX-parsing..

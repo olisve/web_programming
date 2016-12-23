@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Airline">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="Name">
+				<xs:simpleType>    
+					<xs:restriction base="xs:string">      
+						<xs:maxLength value="20"/>             
+					</xs:restriction>  
+				</xs:simpleType>
+			</xs:element>
+			<xs:choice>
+				<xs:element maxOccurs="unbounded" name="PassengerAirplane">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Capacity">
+								<xs:simpleType>    
+									<xs:restriction base="xs:integer">      
+										<xs:minInclusive value="0"/>         
+									</xs:restriction>  
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Model">
+								<xs:simpleType>    
+									<xs:restriction base="xs:string">      
+										<xs:minLength value="2"/>             
+									</xs:restriction>  
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Range">
+								<xs:simpleType>    
+									<xs:restriction base="xs:integer">      
+										<xs:minInclusive value="0"/>         
+									</xs:restriction>  
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Passengers">
+								<xs:simpleType>    
+									<xs:restriction base="xs:integer">      
+										<xs:minInclusive value="0"/>         
+									</xs:restriction>  
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Luggage">
+								<xs:simpleType>    
+									<xs:restriction base="xs:integer">      
+										<xs:minInclusive value="0"/>         
+									</xs:restriction>  
+								</xs:simpleType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+			<xs:choice>
+				<xs:element maxOccurs="unbounded" name="CargoAirplane">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Capacity">
+								<xs:simpleType>    
+									<xs:restriction base="xs:integer">      
+										<xs:minInclusive value="0"/>         
+									</xs:restriction>  
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Model">
+								<xs:simpleType>    
+									<xs:restriction base="xs:string">      
+										<xs:minLength value="2"/>             
+									</xs:restriction>  
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Range">
+								<xs:simpleType>    
+									<xs:restriction base="xs:integer">      
+										<xs:minInclusive value="0"/>         
+									</xs:restriction>  
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Cargo">
+								<xs:simpleType>    
+									<xs:restriction base="xs:integer">      
+										<xs:minInclusive value="0"/>         
+									</xs:restriction>  
+								</xs:simpleType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>

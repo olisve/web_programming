@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Airline>
+	<Name>BelarusAirline</Name>
+	<PassengerAirplane>
+		<Capacity>1500</Capacity>
+		<Model>AN896</Model>
+		<Range>130000</Range>
+		<Passengers>230</Passengers>
+		<Luggage>1500</Luggage>
+	</PassengerAirplane>
+	<CargoAirplane>
+		<Capacity>4000</Capacity>
+		<Model>BN159</Model>
+		<Range>132000</Range>
+		<Cargo>10500</Cargo>
+	</CargoAirplane>
+	<CargoAirplane>
+		<Capacity>3500</Capacity>
+		<Model>BC401</Model>
+		<Range>450000</Range>
+		<Cargo>11000</Cargo>
+	</CargoAirplane>
+</Airline>
