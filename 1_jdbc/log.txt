@@ -1,0 +1,45 @@
+2017-02-20 17:34:35 INFO  MainConsole:14 - Start Main Console.
+2017-02-20 17:34:54 INFO  MainConsole:14 - Start Main Console.
+2017-02-20 17:34:55 INFO  MainConsole:28 - Start Administrator Console.
+2017-02-20 17:34:57 INFO  AdministratorConsole:248 - Administrator logged in system.
+2017-02-20 17:46:04 ERROR MainConsole:39 - 
+2017-02-20 17:47:32 INFO  MainConsole:14 - Start Main Console.
+2017-02-20 17:47:43 INFO  MainConsole:28 - Start Administrator Console.
+2017-02-20 17:47:46 INFO  AdministratorConsole:248 - Administrator logged in system.
+2017-02-20 17:48:09 INFO  AdministratorConsole:99 - Updated product.
+2017-02-20 17:48:23 INFO  AdministratorConsole:158 - Updated shipping.
+2017-02-20 17:48:44 INFO  AdministratorConsole:158 - Updated shipping.
+2017-02-20 17:49:07 INFO  AdministratorConsole:158 - Updated shipping.
+2017-02-20 17:49:17 INFO  AdministratorConsole:158 - Updated shipping.
+2017-02-20 17:49:34 INFO  MainConsole:14 - Start Main Console.
+2017-02-20 17:49:37 INFO  MainConsole:28 - Start Administrator Console.
+2017-02-20 17:49:39 INFO  AdministratorConsole:248 - Administrator logged in system.
+2017-02-20 17:49:47 INFO  AdministratorConsole:200 - Printed list of all orders for client.
+2017-02-20 17:50:05 INFO  AdministratorConsole:213 - Printed list of all orders with delay.
+2017-02-20 17:50:23 INFO  AdministratorConsole:236 - Printed list of all orders before current date.
+2017-02-20 17:50:32 INFO  MainConsole:14 - Start Main Console.
+2017-02-20 17:50:36 INFO  MainConsole:34 - Start Client Console.
+2017-02-20 17:50:39 INFO  ClientConsole:94 - Client logged in system.
+2017-02-20 17:50:42 INFO  ClientConsole:60 - Printed list of products.
+2017-02-20 17:50:46 INFO  ClientConsole:60 - Printed list of products.
+2017-02-20 17:50:54 INFO  ClientConsole:73 - Printed list of orders.
+2017-02-20 17:50:58 INFO  ClientConsole:60 - Printed list of products.
+2017-02-20 17:51:16 INFO  ClientConsole:47 - Client made order.
+2017-02-20 17:51:20 INFO  ClientConsole:73 - Printed list of orders.
+2017-02-20 18:41:28 INFO  MainConsole:14 - Start Main Console.
+2017-02-20 18:41:33 INFO  MainConsole:28 - Start Administrator Console.
+2017-02-20 18:41:35 INFO  AdministratorConsole:248 - Administrator logged in system.
+2017-02-20 18:41:49 INFO  AdministratorConsole:184 - Printed list of all products.
+2017-02-20 18:42:16 INFO  AdministratorConsole:99 - Updated product.
+2017-02-20 18:42:19 INFO  AdministratorConsole:184 - Printed list of all products.
+2017-02-20 18:42:27 INFO  AdministratorConsole:200 - Printed list of all orders for client.
+2017-02-20 18:42:36 INFO  AdministratorConsole:213 - Printed list of all orders with delay.
+2017-02-20 23:34:34 INFO  MainConsole:14 - Start Main Console.
+2017-02-20 23:34:37 INFO  MainConsole:34 - Start Client Console.
+2017-02-20 23:34:47 INFO  MainConsole:14 - Start Main Console.
+2017-02-20 23:34:51 INFO  MainConsole:34 - Start Client Console.
+2017-02-20 23:34:52 INFO  ClientConsole:94 - Client logged in system.
+2017-02-20 23:34:56 INFO  ClientConsole:60 - Printed list of products.
+2017-02-20 23:36:43 INFO  MainConsole:14 - Start Main Console.
+2017-02-20 23:36:45 INFO  MainConsole:34 - Start Client Console.
+2017-02-20 23:36:47 INFO  ClientConsole:94 - Client logged in system.
