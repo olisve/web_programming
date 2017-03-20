@@ -1,0 +1,74 @@
+2017-03-19 22:43:06 INFO  MainConsole:13 - Start Main Console.
+2017-03-19 22:43:08 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-19 22:43:10 INFO  AdministratorConsole:268 - Administrator logged in system.
+2017-03-19 22:43:19 ERROR AdministratorConsole:339 - SQL exception (request or table failed): server.exceptions.BeanException
+2017-03-19 22:57:15 INFO  MainConsole:13 - Start Main Console.
+2017-03-19 22:57:17 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-19 22:57:18 INFO  AdministratorConsole:268 - Administrator logged in system.
+2017-03-19 22:57:20 ERROR AdministratorConsole:339 - SQL exception (request or table failed): server.exceptions.BeanException
+2017-03-19 23:02:01 INFO  MainConsole:13 - Start Main Console.
+2017-03-19 23:02:03 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-19 23:04:23 INFO  MainConsole:13 - Start Main Console.
+2017-03-19 23:04:26 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-19 23:04:36 INFO  MainConsole:13 - Start Main Console.
+2017-03-19 23:05:33 INFO  MainConsole:13 - Start Main Console.
+2017-03-19 23:05:39 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-19 23:06:18 INFO  MainConsole:13 - Start Main Console.
+2017-03-19 23:06:20 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-19 23:06:21 INFO  AdministratorConsole:275 - Administrator logged in system.
+2017-03-19 23:06:24 ERROR MainConsole:38 - 
+2017-03-19 23:06:39 INFO  MainConsole:13 - Start Main Console.
+2017-03-19 23:06:41 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-19 23:06:44 INFO  AdministratorConsole:275 - Administrator logged in system.
+2017-03-19 23:06:55 ERROR MainConsole:38 - 
+2017-03-19 23:09:03 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 00:34:18 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:34:20 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 00:34:21 INFO  AdministratorConsole:275 - Administrator logged in system.
+2017-03-20 00:34:22 ERROR MainConsole:38 - 
+2017-03-20 00:34:43 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:34:44 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 00:34:45 INFO  AdministratorConsole:275 - Administrator logged in system.
+2017-03-20 00:35:00 ERROR MainConsole:38 - 
+2017-03-20 00:40:06 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:40:08 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 00:40:10 INFO  AdministratorConsole:275 - Administrator logged in system.
+2017-03-20 00:40:16 ERROR MainConsole:38 - 
+2017-03-20 00:41:11 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:41:57 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:41:59 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 00:41:59 INFO  AdministratorConsole:275 - Administrator logged in system.
+2017-03-20 00:42:00 ERROR MainConsole:38 - 
+2017-03-20 00:43:03 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:43:06 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 00:43:07 INFO  AdministratorConsole:275 - Administrator logged in system.
+2017-03-20 00:43:08 ERROR AdministratorConsole:346 - SQL exception (request or table failed): java.lang.NullPointerException
+2017-03-20 00:53:28 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:53:31 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 00:53:32 INFO  AdministratorConsole:275 - Administrator logged in system.
+2017-03-20 00:53:33 ERROR AdministratorConsole:346 - SQL exception (request or table failed): java.lang.NullPointerException
+2017-03-20 00:53:42 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:53:54 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 00:53:55 INFO  AdministratorConsole:275 - Administrator logged in system.
+2017-03-20 00:54:11 ERROR AdministratorConsole:346 - SQL exception (request or table failed): java.lang.NullPointerException
+2017-03-20 00:55:47 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:55:50 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 00:55:52 INFO  AdministratorConsole:275 - Administrator logged in system.
+2017-03-20 00:55:56 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:56:11 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 00:56:15 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 00:56:31 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 01:18:07 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 01:18:10 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 01:20:35 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 02:42:26 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 02:58:14 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 02:58:15 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 02:58:16 INFO  AdministratorConsole:272 - Administrator logged in system.
+2017-03-20 02:58:18 ERROR AdministratorConsole:343 - SQL exception (request or table failed): server.exceptions.BeanException
+2017-03-20 02:58:50 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 02:58:52 INFO  MainConsole:27 - Start Administrator Console.
+2017-03-20 02:58:53 INFO  AdministratorConsole:272 - Administrator logged in system.
+2017-03-20 02:58:54 ERROR AdministratorConsole:343 - SQL exception (request or table failed): java.lang.NullPointerException
+2017-03-20 14:04:03 INFO  MainConsole:13 - Start Main Console.
+2017-03-20 14:15:27 INFO  MainConsole:13 - Start Main Console.
